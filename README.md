@@ -15,3 +15,7 @@ Buscamos crear listas en texto con los nombres de canciones organizadas por gene
 Este proyecto nace en hacktoberfest, para promover la participación en un proyecto colaborativo, con la idea de ir creando listas de reproducción en youtube para que se programe con más sabor, más energía, más swing o mejor dicho al son que  me toquen programo.
 
 :nerd_face: :v:
+
+Si te gusto este proyecto, por favor participa, comparte, dejanos tus comentarios y dejanos una estrellita.
+
+:star: :heart: :star: :heart: :star: :heart: 
