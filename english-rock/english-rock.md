@@ -20,6 +20,7 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 9. [Three Days Grace - Never Too Late](https://www.youtube.com/watch?v=lL2ZwXj1tXM)
 10. [Linkin Park - Numb](https://www.youtube.com/watch?v=kXYiU_JCYtU)
 11. [Breaking The Habit - Linkin Park](https://www.youtube.com/watch?v=v2H4l9RpkwM)
+12. [Imagine Dragons - Radioactive](https://www.youtube.com/watch?v=ktvTqknDobU)
 12. [Tool - Pneuma](https://www.youtube.com/watch?v=5ClCaPmAA7s)
 13. [Evanescence - Bring Me To Life](https://www.youtube.com/watch?v=3YxaaGgTQYM)
 14. [Godsmack - I Stand Alone](https://www.youtube.com/watch?v=OYjZK_6i37M)
