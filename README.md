@@ -2,6 +2,9 @@
 
 Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar.
 
+[English](https://github.com/xaca/coding-music/blob/master/README_en.md)
+[French](https://github.com/xaca/coding-music/blob/master/README_fr.md)
+
 ## Instrucciones
 
 1. Las canciones se deben organizar por genero, para esto se debe buscar la carpeta según el genero.
