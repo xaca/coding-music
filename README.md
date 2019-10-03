@@ -16,6 +16,6 @@ Este proyecto nace en hacktoberfest, para promover la participación en un proye
 
 :nerd_face: :v:
 
-Si te gusto este proyecto, por favor participa, comparte, dejanos tus comentarios y dejanos una estrellita.
+Si te gusto este proyecto, por favor participa, comparte, dejanos tus comentarios y una estrellita :thumbsup:.
 
 :star: :heart: :star: :heart: :star: :heart: 
