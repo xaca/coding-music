@@ -1,4 +1,4 @@
-﻿# English Rock - Rock en inglés
+# English Rock - Rock en inglés
 
 ## Português Brasileiro
 Por favor adicione suas músicas favoritas nesta lista, apenas Rock
@@ -24,3 +24,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 13. [Pigs - Pink Floyd](https://www.youtube.com/watch?v=gOqblSqx_VI)
 14. [Echoes - Pink Floyd](https://www.youtube.com/watch?v=y-E7_VHLvkE)
 15. [Deep Blue - Angra](https://www.youtube.com/watch?v=Czfox3aTJ00)
+16. [Survivor - Eye Of The Tiger](https://www.youtube.com/watch?v=btPJPFnesV4)
+17. [Queen - Don't Stop Me Now](https://www.youtube.com/watch?v=HgzGwKwLmgM)
