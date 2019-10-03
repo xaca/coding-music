@@ -1,9 +1,9 @@
-#Rumba latina
+# Rumba latina
 
-##English
+## English
 Please add your favorite songs to this list, only Caribean and latin music. NO Reggaeton, we already have a folder for that. 
 
-##Español
+## Español
 Por favor agrega tus canciones favoritas a esta lista, solo Musica Caribeña y latina. NO Reggaeton, ya tenemos una carpeta para ese ritmo.
 
 1. [Bomba Estéreo - To My Love (Tainy Remix)](https://www.youtube.com/watch?v=THBP1tq49wk)
