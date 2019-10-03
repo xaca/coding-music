@@ -1,9 +1,9 @@
-#Spanish Rap - Rap en español
+# Spanish Rap - Rap en español
 
-##English
+## English
 Please add your favorite songs to this list, only Rap / Hip Hop. 
 
-##Español
+## Español
 Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop. 
 
 1. [Alcolirykoz - La Típica](https://www.youtube.com/watch?v=LqoVJPFAbf4)
