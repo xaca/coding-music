@@ -1,4 +1,7 @@
-﻿# English Rock - Rock en inglés
+# English Rock - Rock en inglés
+
+## Português Brasileiro
+Por favor adicione suas músicas favoritas nesta lista, apenas Rock
 
 ## English
 Please add your favorite songs to this list, only Rock
@@ -28,3 +31,9 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 20. [The Cranberries - Zombie](https://www.youtube.com/watch?v=6Ejga4kJUts)
 21. [Them Crooked Vultures - No One Loves Me and Neither Do I](https://www.youtube.com/watch?v=M89qz4aWbBo)
 22. [Audioslave - Show Me How to Live](https://www.youtube.com/watch?v=vVXIK1xCRpY)
+23. [Time - Pink Floyd](https://www.youtube.com/watch?v=JwYX52BP2Sk)
+24. [Pigs - Pink Floyd](https://www.youtube.com/watch?v=gOqblSqx_VI)
+25. [Echoes - Pink Floyd](https://www.youtube.com/watch?v=y-E7_VHLvkE)
+26. [Deep Blue - Angra](https://www.youtube.com/watch?v=Czfox3aTJ00)
+27. [Survivor - Eye Of The Tiger](https://www.youtube.com/watch?v=btPJPFnesV4)
+28. [Queen - Don't Stop Me Now](https://www.youtube.com/watch?v=HgzGwKwLmgM)
