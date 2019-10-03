@@ -1,5 +1,8 @@
 ﻿# English Rock - Rock en inglés
 
+## Português Brasileiro
+Por favor adicione suas músicas favoritas nesta lista, apenas Rock
+
 ## English
 Please add your favorite songs to this list, only Rock
 
