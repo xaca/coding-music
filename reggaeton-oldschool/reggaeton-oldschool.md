@@ -1,9 +1,9 @@
-#Reggaeton Oldschool - Reggaeton viejo
+# Reggaeton Oldschool - Reggaeton viejo
 
-##English
+## English
 Please add your favorite songs to this list, only Reggaeton / Ragga. 
 
-##Español
+## Español
 Por favor agrega tus canciones favoritas a esta lista, solo Reggaeton / Ragga.
 
 1. [Hector El Father Ft Divino - Noche De Travesuras](https://www.youtube.com/watch?v=NJDTAGgPRRQ)
