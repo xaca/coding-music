@@ -1,4 +1,4 @@
-# Reggaeton Oldschool - Reggaeton viejo
+﻿# Reggaeton Oldschool - Reggaeton viejo
 
 ## English
 Please add your favorite songs to this list, only Reggaeton / Ragga. 
@@ -17,3 +17,6 @@ Por favor agrega tus canciones favoritas a esta lista, solo Reggaeton / Ragga.
 9. [R.K.M, Ken-Y - Down](https://www.youtube.com/watch?v=iFnwmTeSlAQ)
 10. [Zion - Zun Da Da](https://www.youtube.com/watch?v=6xlsR1c8yh4)
 11. [Wisin & Yandel - Pam Pam](https://www.youtube.com/watch?v=ZoVCM5iUaL0)
+12. [Don Omar - Virtual Diva](https://www.youtube.com/watch?v=vRBgZ4aMPio)
+13. [Daddy Yankee - Descontrol](https://www.youtube.com/watch?v=LpoFBlH4wMI)
+14. [Abusadora - Wisin y Yandel](https://www.youtube.com/watch?v=YckjfpNi5dI)
