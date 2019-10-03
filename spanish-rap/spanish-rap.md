@@ -11,3 +11,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 3. [El Grupo - No Rules Clan](https://www.youtube.com/watch?v=iqALezmiBnM)
 4. [Canserbero - Jeremías 17:5](https://www.youtube.com/watch?v=a9jxNusr0tE)
 5. [Canserbero - Y la felicidad que](https://www.youtube.com/watch?v=VtM2fspH3CE)
+6. [Residente & Nach - Rap Bruto](https://www.youtube.com/watch?v=vFAOKWaEctg)
