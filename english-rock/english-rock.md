@@ -1,4 +1,7 @@
-﻿# English Rock - Rock en inglés
+# English Rock - Rock en inglés
+
+## Português Brasileiro
+Por favor adicione suas músicas favoritas nesta lista, apenas Rock
 
 ## English
 Please add your favorite songs to this list, only Rock
@@ -17,6 +20,9 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 9. [Three Days Grace - Never Too Late](https://www.youtube.com/watch?v=lL2ZwXj1tXM)
 10. [Linkin Park - Numb](https://www.youtube.com/watch?v=kXYiU_JCYtU)
 11. [Breaking The Habit - Linkin Park](https://www.youtube.com/watch?v=v2H4l9RpkwM)
-12. [Survivor - Eye Of The Tiger](https://www.youtube.com/watch?v=btPJPFnesV4)
-13. [Queen - Don't Stop Me Now](https://www.youtube.com/watch?v=HgzGwKwLmgM)
-
+12. [Time - Pink Floyd](https://www.youtube.com/watch?v=JwYX52BP2Sk)
+13. [Pigs - Pink Floyd](https://www.youtube.com/watch?v=gOqblSqx_VI)
+14. [Echoes - Pink Floyd](https://www.youtube.com/watch?v=y-E7_VHLvkE)
+15. [Deep Blue - Angra](https://www.youtube.com/watch?v=Czfox3aTJ00)
+16. [Survivor - Eye Of The Tiger](https://www.youtube.com/watch?v=btPJPFnesV4)
+17. [Queen - Don't Stop Me Now](https://www.youtube.com/watch?v=HgzGwKwLmgM)
