@@ -25,3 +25,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock en español
 17. [Héroes del Silencio - Entre dos tierras](https://www.youtube.com/watch?v=6wMMcCkRAsk)
 18. [Maná - Oye Mi Amor](https://www.youtube.com/watch?v=J6Se3Gfj4uE)
 19. [Maná - Me Vale](https://www.youtube.com/watch?v=vUplIirnaqI)
+20. [Enanitos Verdes - Tu cárcel](https://www.youtube.com/watch?v=qSd7KkxnDrg)
