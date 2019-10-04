@@ -13,3 +13,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 5. [Canserbero - Y la felicidad que](https://www.youtube.com/watch?v=VtM2fspH3CE)
 6. [Residente & Nach - Rap Bruto](https://www.youtube.com/watch?v=vFAOKWaEctg)
 7. [Ari - la ultima vida feat. Lianna (prod. El Arkeólogo)](https://www.youtube.com/watch?v=q0b4zwYGDVg)
+8. [Gracias - Akapellah](https://www.youtube.com/watch?v=1foJW6XHK0U)
