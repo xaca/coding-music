@@ -40,3 +40,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 28. [Queen - Don't Stop Me Now](https://www.youtube.com/watch?v=HgzGwKwLmgM)
 29. [Rise Against - House on Fire](https://www.youtube.com/watch?v=Ui1eRqX0mZo)
 30. [The Script - Superheroes](https://www.youtube.com/watch?v=WIm1GgfRz6M)
+31. [The Script - Hall of Fame](https://www.youtube.com/watch?v=dtgoDXEOxTM)
+32. 
