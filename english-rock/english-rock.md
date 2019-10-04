@@ -44,3 +44,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 32. [Red Hot Chili Peppers - Snow (Hey Oh)](https://www.youtube.com/watch?v=yuFI5KSPAt4)
 33. [Seether - Fake It](https://www.youtube.com/watch?v=gy8HPSIFXEM)
 34. [Kansas - Carry On Wayward Son](https://www.youtube.com/watch?v=2X_2IdybTV0)
+35. [The Script - Superheroes](https://www.youtube.com/watch?v=WIm1GgfRz6M)
+36. [The Script - Hall of Fame](https://www.youtube.com/watch?v=dtgoDXEOxTM)
