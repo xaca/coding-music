@@ -22,3 +22,6 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock en español
 14. [Mago de Oz - Pensatorium](https://www.youtube.com/watch?v=eOZhOiWfDrY)
 15. [Soda Stereo - Ella Usó Mi Cabeza Como un Revólver](https://www.youtube.com/watch?v=1zzzby2tAQM)
 16. [Andres Calamaro - Flaca](https://www.youtube.com/watch?v=CG7rVuIZugU)
+17. [Héroes del Silencio - Entre dos tierras](https://www.youtube.com/watch?v=6wMMcCkRAsk)
+18. [Maná - Oye Mi Amor](https://www.youtube.com/watch?v=J6Se3Gfj4uE)
+19. [Maná - Me Vale](https://www.youtube.com/watch?v=vUplIirnaqI)
