@@ -16,3 +16,6 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 7. [Childish Gambino - Sweatpants](https://www.youtube.com/watch?v=ExVtrghW5Y4)
 8. [Eminem - Rap God](https://www.youtube.com/watch?v=XbGs_qK2PQA)
 9. [Tupac - Hail Mary](https://www.youtube.com/watch?v=nkJA6SYwa94)
+10. [Hopsin - Ill Mind of Hopsin 5](https://www.youtube.com/watch?v=hRVOOwFNp5U)
+11. [50 Cent - In Da Club](https://www.youtube.com/watch?v=5qm8PH4xAss)
+12. [Eminem - Till I Collapse](https://www.youtube.com/watch?v=Obim8BYGnOE)
