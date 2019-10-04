@@ -2,7 +2,7 @@
 # English Pop - Pop en inglés
 
 ## English
-Please add your favorite songs to this list, only Rap / Hip Hop. 
+Please add your favorite songs to this list, only Pop. 
 
 ## Español
 Por favor agrega tus canciones favoritas a esta lista, Pop.
@@ -22,4 +22,3 @@ Por favor agrega tus canciones favoritas a esta lista, Pop.
 13. [Shawn Mendes - Stitches](https://www.youtube.com/watch?v=VbfpW0pbvaU)
 14. [Shawn Mendes - Treat You Better](https://www.youtube.com/watch?v=lY2yjAdbvdQ)
 15. [OneRepublic - Somebody To Love](https://www.youtube.com/watch?v=1qdo91-z7EQ)
-
