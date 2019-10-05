@@ -36,5 +36,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 27. [Kendrick Lamar - LOVE. ft. Zacari](https://www.youtube.com/watch?v=ox7RsX1Ee34)
 28. [Fetty Wap - "679" feat. Remy Boyz](https://www.youtube.com/watch?v=Pzz4Z-O7710)
 29. [Jeremih - oui](https://www.youtube.com/watch?v=VtcP0PFifpE)
-30. [Bagpipes From Baghdad - Eminem](https://www.youtube.com/watch?v=ZdbmmKMLbLk&list=PLoDvFJTRx3xbe2u1-0PoLBbmYwscAZjJ-&index=15&t=0s)
-31. [I Need A Doctor - Dr.Dre ft. Eminem](https://www.youtube.com/watch?v=VA770wpLX-Q&list=PLoDvFJTRx3xbe2u1-0PoLBbmYwscAZjJ-&index=13)
+30. [Bagpipes From Baghdad - Eminem](https://www.youtube.com/watch?v=ZdbmmKMLbLk)
+31. [I Need A Doctor - Dr.Dre ft. Eminem](https://www.youtube.com/watch?v=VA770wpLX-Q)
