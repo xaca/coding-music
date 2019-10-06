@@ -46,3 +46,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 34. [Kansas - Carry On Wayward Son](https://www.youtube.com/watch?v=2X_2IdybTV0)
 35. [The Script - Superheroes](https://www.youtube.com/watch?v=WIm1GgfRz6M)
 36. [The Script - Hall of Fame](https://www.youtube.com/watch?v=dtgoDXEOxTM)
+37. [Linkin Park - Pts.Of.Athrty](https://www.youtube.com/watch?v=GgxcvmkPD-I)
+38. [Korn - Falling Away From Me](https://www.youtube.com/watch?v=2s3iGpDqQpQ)
