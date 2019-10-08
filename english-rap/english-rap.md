@@ -39,3 +39,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 30. [Bagpipes From Baghdad - Eminem](https://www.youtube.com/watch?v=ZdbmmKMLbLk)
 31. [I Need A Doctor - Dr.Dre ft. Eminem](https://www.youtube.com/watch?v=VA770wpLX-Q)
 32. [Murs - The Break Up](https://www.youtube.com/watch?v=CKA0kgsScb8)
+33. [Eminem - Cinderella Man](https://www.youtube.com/watch?v=kKPZqkcWeTM)
+34. [Eminem - Space Bound](https://www.youtube.com/watch?v=JByDbPn6A1o)
