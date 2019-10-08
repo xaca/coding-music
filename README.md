@@ -15,6 +15,13 @@ Buscamos crear listas en texto con los nombres de canciones organizadas por gene
 4. Se debe escribir el nombre de la canción y el artista y además se debe poner el enlace a youtube.
 5. Hay generos muy similares, entonces por favor tener cuidado en la clasificación de la canción.
 
+## ¿Como se participa de hacktoberfest y como realizar un pull request?
+
+En el sisguiente video, explico paso a paso, como participar del evento hacktoberfest de github, además explico como colaborar en un proyecto y como buscar proyectos para colaborar.
+
+![al text](https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube")
+[Enlace al video](https://www.youtube.com/watch?v=8MQN0U1AwgU)
+
 ## Acerca del proyecto
 
 Este proyecto nace en hacktoberfest, para promover la participación en un proyecto colaborativo, con la idea de ir creando listas de reproducción en youtube para que se programe con más sabor, más energía, más swing o mejor dicho al son que  me toquen programo.
