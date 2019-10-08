@@ -19,7 +19,7 @@ Buscamos crear listas en texto con los nombres de canciones organizadas por gene
 
 En el sisguiente video, explico paso a paso, como participar del evento hacktoberfest de github, además explico como colaborar en un proyecto y como buscar proyectos para colaborar.
 
-![al text](https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube")
+![al text](https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube") <br>
 [Enlace al video](https://www.youtube.com/watch?v=8MQN0U1AwgU)
 
 ## Acerca del proyecto
