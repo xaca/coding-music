@@ -10,6 +10,14 @@ Buscamos criar listas em texto com os nomes de músicas organizados por gênero.
 4. Você deve escrever os nomes da música e do artista, além de pôr o link para o YouTube.
 5. Há gêneros muito similares, então tenha cuidado com a classificação da música.
 
+## Como você participa do hacktoberfest e como realizar um pull request?
+
+ No vídeo a seguir, explico passo a passo, como participar do evento hacktoberfest do github, também explico como colaborar em um projeto e como procurar projetos para colaborar.
+
+ 
+![al text](https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube") <br>
+[Link para o vídeo](https://www.youtube.com/watch?v=8MQN0U1AwgU)
+
 ## Sobre o projeto
 
 Esse projeto nasceu no Hacktoberfest para promover a participação em um projeto colaborativo, com a ideia de criar playlists no YouTube para que se programe com mais sabor, mais energia, mais swing, ou melhor dizendo, com a música que programo.
