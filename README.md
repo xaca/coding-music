@@ -11,7 +11,7 @@ Buscamos crear listas en texto con los nombres de canciones organizadas por gene
 
 1. Las canciones se deben organizar por genero, para esto se debe buscar la carpeta según el genero.
 2. Si la canción que quiere compartir no se encuentra en alguno de los generos existentes, se podría crear, pero primero se debe preguntar si el nuevo genero es válido.
-3. Dentro de cada carpeta hay un archivo con formato markdown con el nombre del genero, este se debe editar, teniendo en cuenta de no repetir canción y de agregarla al inal del archivo, según el orden que lleve el listado.
+3. Dentro de cada carpeta hay un archivo con formato markdown con el nombre del genero, este se debe editar, teniendo en cuenta de no repetir canción y de agregarla al final del archivo, según el orden que lleve el listado.
 4. Se debe escribir el nombre de la canción y el artista y además se debe poner el enlace a youtube.
 5. Hay generos muy similares, entonces por favor tener cuidado en la clasificación de la canción.
 
