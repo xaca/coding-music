@@ -51,3 +51,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 40. [Red Hot Chili Peppers - Scar Tissue](https://www.youtube.com/watch?v=mzJj5-lubeM)
 41. [Red Hot Chili Peppers - Under the bridge](https://www.youtube.com/watch?v=O9TunCtR3dQ)
 42. [Pink floyd - Wish you were here](https://www.youtube.com/watch?v=vLdPL3xvq3M)
+43. [Aerosmith - Cryin'](https://youtu.be/qfNmyxV2Ncw)
