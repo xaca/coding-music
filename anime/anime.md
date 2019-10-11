@@ -38,3 +38,4 @@ Por favor agrega tus canciones favoritas a esta lista, Anime.
 28. [Moonlight Densetsu - Heart Moving](https://www.youtube.com/watch?v=sEnaU4BsQic)
 29. [The Hero - JAM project](https://www.youtube.com/watch?v=sfFv3MTPdkw)
 30. [The Day - Porno Graffitti](https://www.youtube.com/watch?v=2SVZ_2z79rQ)
+31. [Neon Genesis Evangelion - The Evangelion Symphony](https://www.youtube.com/watch?v=nP3LMSAmrfU)
