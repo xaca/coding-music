@@ -2,12 +2,6 @@
 
 Snažíme se vytvářet seznamy v textu se jmény písní uspořádaných podle žánru. To je iniciativa, když potřebujete hudební inspiraci k programování.
 
-* :us: [Anglicky](https://github.com/xaca/coding-music/blob/master/README_en.md)
-* :fr: [Francouzsky](https://github.com/xaca/coding-music/blob/master/README_fr.md)
-* <span>&#x1f1e7;&#x1f1f7;</span> [Brazílie](https://github.com/xaca/coding-music/blob/master/README_pt-br.md)
-* 🇵🇱 [Polsky](https://github.com/xaca/coding-music/blob/master/README_pl.md)
-* :cz: [Czech](https://github.com/xaca/coding-music/blob/master/README_czech.md)
-
 ## Pokyny
 
 1. Skladby musí být uspořádány podle žánru, proto musíte najít složku podle žánru.
