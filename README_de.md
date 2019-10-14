@@ -14,7 +14,7 @@ Wir wollen Textlisten mit Namen der Songs sortiert nach Genre  erstellen. Die si
 
 In diesem folgendem Video, werde ich Schritt für Schritt erklären, wie man an dem Hacktoberfest-Event auf github teilnimmt. Ich werde auch erklären wie man bei einem Projekt mitwirkt und wie man nach Projekt sucht, bei denen man mitarbeiten kann.
 
-(Video ist in spanisch)![al text] (https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube") 
+(Video ist in spanisch)![al text](https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube") 
 <br>
 [Link zum video](https://www.youtube.com/watch?v=8MQN0U1AwgU)
 
@@ -27,4 +27,4 @@ Dieses Projekt enstand im Hacktoberfest, um deren Teilnahmerquote zu erhöhen. D
 
 Wenn dir das Projekt gefällt, bitte nimm daran teil, teile es, hinterlasst ein Kommentar und einen kleinen Stern: thumbsup :.
 
-:star::heart::star::heart::star::heart:
+:star: :heart: :star: :heart: :star: :heart:
