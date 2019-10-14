@@ -27,4 +27,4 @@ Dieses Projekt enstand im Hacktoberfest, um deren Teilnahmerquote zu erhöhen. D
 
 Wenn dir das Projekt gefällt, bitte nimm daran teil, teile es, hinterlasst ein Kommentar und einen kleinen Stern: thumbsup :.
 
-: star:: heart:: star:: heart:: star:: heart:
+:star::heart::star::heart::star::heart:
