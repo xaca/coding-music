@@ -7,6 +7,7 @@ Buscamos crear listas en texto con los nombres de canciones organizadas por gene
 * <span>&#x1f1e7;&#x1f1f7;</span> [Brazil](https://github.com/xaca/coding-music/blob/master/README_pt-br.md)
 * 🇵🇱 [Polish](https://github.com/xaca/coding-music/blob/master/README_pl.md)
 * 🇨🇿 [Czech](https://github.com/xaca/coding-music/blob/master/README_czech.md)
+* 🇩🇪 [deutsch](https://github.com/xaca/coding-music/blob/master/README_de.md)
 
 ## Instrucciones
 
