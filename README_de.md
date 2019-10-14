@@ -2,11 +2,6 @@
 
 Wir wollen Textlisten mit Namen der Songs sortiert nach Genre  erstellen. Die sind dazu da, wenn Du musikalische Inspirationen während des Programmieren brauchst.
 
-*: us: [Englisch] (https://github.com/xaca/coding-music/blob/master/README_en.md)
-*: fr: [Französisch] (https://github.com/xaca/coding-music/blob/master/README_fr.md)
-* <span> & # x1f1e7; & # x1f1f7; </span> [Brasilianisches Portugiesisch] (https://github.com/xaca/coding-music/blob/master/README_pt-br.md)
-* :pl:Polish [Polnish] (https://github.com/xaca/coding-music/blob/master/README_pl.md)
-
 ## Anweisungen
 
 1. Die Songs müssen nach Genre sortiert sein. Achte deshalb, dass sie stets im richtigen Ordner landen.
@@ -19,9 +14,9 @@ Wir wollen Textlisten mit Namen der Songs sortiert nach Genre  erstellen. Die si
 
 In diesem folgendem Video, werde ich Schritt für Schritt erklären, wie man an dem Hacktoberfest-Event auf github teilnimmt. Ich werde auch erklären wie man bei einem Projekt mitwirkt und wie man nach Projekt sucht, bei denen man mitarbeiten kann.
 
-(Video ist in spanisch)
-! [al text] (https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube") <br>
-[Link zum video] (https://www.youtube.com/watch?v=8MQN0U1AwgU)
+(Video ist in spanisch)![al text] (https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube") 
+<br>
+[Link zum video](https://www.youtube.com/watch?v=8MQN0U1AwgU)
 
 
 ## Über das Projekt
