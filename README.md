@@ -1,13 +1,13 @@
 # C:heart_eyes:ding Music
 
-Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar.
-
 * :us: [English](https://github.com/xaca/coding-music/blob/master/README_en.md)
 * :fr: [French](https://github.com/xaca/coding-music/blob/master/README_fr.md)
 * <span>&#x1f1e7;&#x1f1f7;</span> [Brazil](https://github.com/xaca/coding-music/blob/master/README_pt-br.md)
 * 🇵🇱 [Polish](https://github.com/xaca/coding-music/blob/master/README_pl.md)
 * 🇨🇿 [Czech](https://github.com/xaca/coding-music/blob/master/README_czech.md)
 * 🇩🇪 [deutsch](https://github.com/xaca/coding-music/blob/master/README_de.md)
+
+Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar.
 
 ## Instrucciones
 
