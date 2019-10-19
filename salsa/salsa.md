@@ -13,3 +13,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Salsa.
 5. [Tal Para Cual - Joe Arroyo ](https://www.youtube.com/watch?v=oReuYMzIokg)
 6. [Procura - Chichi Peralta](https://www.youtube.com/watch?v=_JLxVJkr-Ow)
 7. [Que Hay De Malo - Jerry Rivera ](https://www.youtube.com/watch?v=SUgQHe902yQ)
+8. [Dia tras Dia - Cheo Andujar](https://youtu.be/dh6eM9qmiLE)
