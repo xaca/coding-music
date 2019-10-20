@@ -52,3 +52,12 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 41. [Red Hot Chili Peppers - Under the bridge](https://www.youtube.com/watch?v=O9TunCtR3dQ)
 42. [Pink floyd - Wish you were here](https://www.youtube.com/watch?v=vLdPL3xvq3M)
 43. [Aerosmith - Cryin'](https://youtu.be/qfNmyxV2Ncw)
+44. [Weezer - Perfect Situation](https://www.youtube.com/watch?v=jwv-iRvyDZg)
+44. [Weezer - Take On Me](https://www.youtube.com/watch?v=f7RwDnZI7Tw)
+45. [Weezer - The End Of The Game](https://www.youtube.com/watch?v=Rl-hSj3gnks)
+45. [Weezer - Buddy Holly](https://www.youtube.com/watch?v=Kjr7US2Z9aY)
+45. [Weezer - Island In The Sun](https://www.youtube.com/watch?v=erG5rgNYSdk)
+45. [Fall Out Boy - Thnks fr th Mmrs ](https://www.youtube.com/watch?v=onzL0EM1pKY)
+45. [Fall Out Boy - Sugar, We're Goin Down](https://www.youtube.com/watch?v=uhG-vLZrb-g)
+45. [Fall Out Boy - This Ain't A Scene, It's An Arms Race](https://www.youtube.com/watch?v=GNm5drtAQXs)
+
