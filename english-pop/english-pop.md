@@ -1,6 +1,10 @@
 
 # English Pop - Pop en inglés
 
+## Thai
+
+กรุณาช่วยเพิ่มเพลงโปรดของคุณในรายการนี้ เฉพาะเพลงป็อป
+
 ## English
 Please add your favorite songs to this list, only Pop. 
 
@@ -29,3 +33,4 @@ Por favor agrega tus canciones favoritas a esta lista, Pop.
 20. [Michael Jackson - Will You Be There](https://www.youtube.com/watch?v=jQY_QL_wvQU)
 21. [Michael Jackson - The Way You Make Me Feel](https://www.youtube.com/watch?v=HzZ_urpj4As)
 22. [One Direction - Steal My Girl](https://www.youtube.com/watch?v=UpsKGvPjAgw)
+23. [One Direction - One Thing](https://youtu.be/Y1xs_xPb46M)
