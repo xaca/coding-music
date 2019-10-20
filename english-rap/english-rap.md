@@ -1,6 +1,10 @@
 
 # English Rap - Rap en inglés
 
+## Thai
+
+กรุณาช่วยเพิ่มเพลงโปรดของคุณในรายการนี้ เฉพาะเพลงแรป
+
 ## English
 Please add your favorite songs to this list, only Rap / Hip Hop. 
 

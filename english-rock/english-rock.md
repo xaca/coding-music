@@ -1,5 +1,9 @@
 # English Rock - Rock en inglés
 
+## Thai
+
+กรุณาช่วยเพิ่มเพลงโปรดของคุณในรายการนี้ เฉพาะเพลงร็อค
+
 ## Português Brasileiro
 Por favor adicione suas músicas favoritas nesta lista, apenas Rock
 
