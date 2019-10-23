@@ -64,3 +64,6 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 49. [Fall Out Boy - Thnks fr th Mmrs ](https://www.youtube.com/watch?v=onzL0EM1pKY)
 50. [Fall Out Boy - Sugar, We're Goin Down](https://www.youtube.com/watch?v=uhG-vLZrb-g)
 51. [Fall Out Boy - This Ain't A Scene, It's An Arms Race](https://www.youtube.com/watch?v=GNm5drtAQXs)
+52. [Green Day - Boulevard Of Broken Dreams](https://www.youtube.com/watch?v=Soa3gO7tL-c)
+53. [Brand New - Jesus Christ](https://www.youtube.com/watch?v=cjPyvoLXPs4)
+54. [Muse - Starlight](https://www.youtube.com/watch?v=Pgum6OT_VH8)
