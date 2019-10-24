@@ -30,3 +30,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock en español
 22. [Duncan Dhu - En Algún Lugar](https://www.youtube.com/watch?v=6bIimzl5NYM)
 23. [Los Prisioneros - El Baile de los que Sobran](https://www.youtube.com/watch?v=uPJrZFBiy-A)
 24. [Enanitos Verdes - La muralla verde ](https://www.youtube.com/watch?v=980Fscw8l4E)
+25. [Jaguares - Detras de los Cerros](https://www.youtube.com/watch?v=KK12h0ctzpU)
