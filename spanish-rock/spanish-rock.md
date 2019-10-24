@@ -32,4 +32,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock en español
 24. [Enanitos Verdes - La muralla verde ](https://www.youtube.com/watch?v=980Fscw8l4E)
 25. [Caramelos de Cianuro - No eres tú ](https://www.youtube.com/watch?v=7EmpvqRIuek)
 26. [Caramelos de Cianuro - 2 caraS 2 Corazones ](https://www.youtube.com/watch?v=BrF-TSAcsBk)
-25. [Caramelos de Cianuro - Las Estrellas ](https://www.youtube.com/watch?v=Cv3hKgswvqU&list=RDBrF-TSAcsBk&index=24)
+25. [Caramelos de Cianuro - Las Estrellas ](https://www.youtube.com/watch?v=Cv3hKgswvqU)
