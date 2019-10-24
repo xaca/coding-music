@@ -64,3 +64,8 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 49. [Fall Out Boy - Thnks fr th Mmrs ](https://www.youtube.com/watch?v=onzL0EM1pKY)
 50. [Fall Out Boy - Sugar, We're Goin Down](https://www.youtube.com/watch?v=uhG-vLZrb-g)
 51. [Fall Out Boy - This Ain't A Scene, It's An Arms Race](https://www.youtube.com/watch?v=GNm5drtAQXs)
+52. [Rise Against - Prayer Of The Refugee](https://www.youtube.com/watch?v=9-SQGOYOjxs)
+53. [Rise Against - Satellite](https://www.youtube.com/watch?v=6nQCxwneUwA)
+54. [The Killers - Mr. Brightside](https://www.youtube.com/watch?v=gGdGFtwCNBE)
+55. [Panic! At The Disco: I Write Sins Not Tragedies](https://www.youtube.com/watch?v=vc6vs-l5dkc)
+55. [Poets of the Fall - War](https://www.youtube.com/watch?v=0f_hewSrAH4)

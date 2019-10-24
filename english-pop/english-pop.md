@@ -36,3 +36,6 @@ Por favor agrega tus canciones favoritas a esta lista, Pop.
 22. [One Direction - Steal My Girl](https://www.youtube.com/watch?v=UpsKGvPjAgw)
 23. [One Direction - One Thing](https://youtu.be/Y1xs_xPb46M)
 24. [Dean Lewis - Stay Awake](https://www.youtube.com/watch?v=PzSQJwpljg0)
+25. [The Wanted - Glad You Came](https://www.youtube.com/watch?v=2ggzxInyzVE)
+26. [Charli XCX - Boom Clap](https://www.youtube.com/watch?v=AOPMlIIg_38)
+27. [Pitbull - Timber ft. Ke$ha](https://www.youtube.com/watch?v=hHUbLv4ThOo)
