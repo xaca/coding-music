@@ -48,5 +48,7 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 35. [Eminem - Killshot](https://www.youtube.com/watch?v=FxQTY-W6GIo)
 36. [Eminem - Cleanin' Out My Closet](https://www.youtube.com/watch?v=RQ9_TKayu9s)
 37. [Eminem - My Name Is](https://www.youtube.com/watch?v=sNPnbI1arSE)
+38. [Childish Gambino - Summertime Magic](https://www.youtube.com/watch?v=diLp6hUqvVk)
+39. [Eminem, Dr. Dre - Forgot About Dre](https://www.youtube.com/watch?v=QFcv5Ma8u8k)
 
 

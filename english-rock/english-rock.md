@@ -69,3 +69,6 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 54. [The Killers - Mr. Brightside](https://www.youtube.com/watch?v=gGdGFtwCNBE)
 55. [Panic! At The Disco: I Write Sins Not Tragedies](https://www.youtube.com/watch?v=vc6vs-l5dkc)
 55. [Poets of the Fall - War](https://www.youtube.com/watch?v=0f_hewSrAH4)
+56. [Green Day - Boulevard Of Broken Dreams](https://www.youtube.com/watch?v=Soa3gO7tL-c)
+57. [Brand New - Jesus Christ](https://www.youtube.com/watch?v=cjPyvoLXPs4)
+58. [Muse - Starlight](https://www.youtube.com/watch?v=Pgum6OT_VH8)
