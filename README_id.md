@@ -9,6 +9,7 @@ Kami berupaya membuat daftar dalam teks dengan nama lagu yang disusun berdasarka
 3. Di dalam setiap folder ada file (dalam format penurunan harga) dengan nama genre. Ini harus diedit, dengan mempertimbangkan untuk tidak mengulangi lagu apa pun dan menambahkannya ke inal file, sesuai dengan urutan yang membawa daftar.
 4. Anda harus menulis nama lagu + artis, dan juga pastikan untuk memasang tautan YouTube.
 5. Ada genre yang sangat mirip, jadi harap berhati-hati mengenai klasifikasi lagu.
+6. Anda harus berpartisipasi dengan minimal 5 lagu agar kontribusi valid.
 
 ## Tentang Proyek
 

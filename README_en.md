@@ -9,6 +9,7 @@ We seek to create lists in text with the names of songs organized by genre. This
 3. Inside each folder there is a file (in markdown format) with the name of the genre. This must be edited, taking into account not to repeat any songs and to add it to the inal of the file, according to the order that carries the list.
 4. You must write the name of the song + artist, and also make sure to put a YouTube link.
 5. There are very similar genres, so please be careful regarding the classification of the song.
+6. You must participate with a minimum of 5 songs for the contribution to be valid.
 
 ## About The Project
 

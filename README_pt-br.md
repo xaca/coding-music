@@ -9,6 +9,7 @@ Buscamos criar listas em texto com os nomes de músicas organizados por gênero.
 3. Dentro de cada pasta há um arquivo (em formato markdown) com o nome do gênero. Ele deve ser editado, levando em consideração que não se repitam as músicas e que seja no final do arquivo, de acordo com a ordem da lista.
 4. Você deve escrever os nomes da música e do artista, além de pôr o link para o YouTube.
 5. Há gêneros muito similares, então tenha cuidado com a classificação da música.
+6. Você deve participar com um mínimo de 5 músicas para que a contribuição seja válida.
 
 ## Como você participa do hacktoberfest e como realizar um pull request?
 
