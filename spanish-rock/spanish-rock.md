@@ -34,3 +34,8 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock en español
 26. [Caramelos de Cianuro - 2 caraS 2 Corazones ](https://www.youtube.com/watch?v=BrF-TSAcsBk)
 25. [Caramelos de Cianuro - Las Estrellas ](https://www.youtube.com/watch?v=Cv3hKgswvqU)
 26. [Jaguares - Detras de los Cerros](https://www.youtube.com/watch?v=KK12h0ctzpU)
+27. [Llevarte a Marte - Sé que fallaré](https://www.youtube.com/watch?v=7MFEjX6tcCA&list=FLC41n9BQORgfOfdgEvYrChA)
+28. [Llevarte a Marte - Chance](https://www.youtube.com/watch?v=eK8yQxDZPV0)
+29. [Llevarte a Marte - Al final del día](https://www.youtube.com/watch?v=OTj2ADIvFt0&list=OLAK5uy_ntyScW5MeSFvR_GeyFm1N0Ptlpese4axk&index=3)
+30. [Llevarte a Marte - Hogar](https://www.youtube.com/watch?v=s99cYYfczv4&list=OLAK5uy_mlO3HOyoDUzIHzRdGXVV2VzR1VkfW_8u4&index=4)
+31. [Los Rabanes - How are you](https://www.youtube.com/watch?v=z_S-7kpkwSY&list=OLAK5uy_nfEMMVyft61B7I4cThLMUvMNWcM4228Ko)
