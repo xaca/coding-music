@@ -8,7 +8,7 @@
 * 🇩🇪 [Deutsch](https://github.com/xaca/coding-music/blob/master/README_de.md)
 * 🇮🇩 [Indonesian](https://github.com/xaca/coding-music/blob/master/README_id.md)
 * 🇹🇭 [Thai](https://github.com/xaca/coding-music/blob/master/README_th.md)
-* 🇩🇪[German](https://github.com/xaca/coding-music/blob/master/README_ge.md)
+* 🇩🇪 [German](https://github.com/xaca/coding-music/blob/master/README_ge.md)
 
 Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar.
 
@@ -19,6 +19,7 @@ Buscamos crear listas en texto con los nombres de canciones organizadas por gene
 3. Dentro de cada carpeta hay un archivo con formato markdown con el nombre del genero, este se debe editar, teniendo en cuenta de no repetir canción y de agregarla al final del archivo, según el orden que lleve el listado.
 4. Se debe escribir el nombre de la canción y el artista y además se debe poner el enlace a youtube.
 5. Hay generos muy similares, entonces por favor tener cuidado en la clasificación de la canción.
+6. Se debe participar con mínimo 5 canciones para que la contribución sea valida.
 
 ## ¿Como se participa de hacktoberfest y como realizar un pull request?
 
