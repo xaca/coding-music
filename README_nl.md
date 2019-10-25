@@ -9,6 +9,7 @@ We willen text gebaseerde lijsten creëren met de namen van liedjes, georganisee
 3. In iedere map zit een bestand (in markdown) met de naam van het genre. Voeg het lied aan het einde van dit bestand toe. Controleer eerst of het lied niet al in de lijst staat.
 4. Schrijf de naam van het lied en de artiest. Voeg ook een link naar YouTube toe.
 5. Er zijn genres die veel met elkaar overeen komen. Denk daarom goed na in welke genres het lied kan passen.
+6. Voor een geldige contributie moet je minimaal 5 liedjes toevoegen.
 
 ## Over het project
 
