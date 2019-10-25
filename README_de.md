@@ -9,6 +9,7 @@ Wir wollen Textlisten erstellen, die die Namen von Liedern sortiert nach Genre e
 3. Innerhalb jedes Ordner befindet sich eine Datei (im Markdown Format) mit dem Namen des Genres. Diese soll bearbeitet werden, wobei darauf zu achten ist, dass keine Lieder mehrfach vorkommen. Füge das Lied immer am Ende hinzu, damit die Reihenfolge beibehalten wird.
 4. Du musst den Interpreten, den Namen des Lieds und einen Link zu Youtube hinzufügen.
 5. Es gibt oft ähnliche Genres, sei deshalb vorsichtig hinsichtlich der Einteilung des Lieds.
+6. Sie müssen mit mindestens 5 Songs teilnehmen, damit der Beitrag gültig ist.
 
 ## Über dieses Projekt
 
