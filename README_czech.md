@@ -9,6 +9,7 @@ Snažíme se vytvářet seznamy v textu se jmény písní uspořádaných podle 
 3. V každé složce je soubor se značkovým formátem s názvem žánru, musí být upraven s ohledem na to, aby se píseň neopakovala a přidala se na konec souboru podle pořadí, v jakém je seznam uveden.
 4. Musíte napsat název písně a interpreta a také musíte vložit odkaz na youtube.
 5. Existují velmi podobné žánry, proto prosím při klasifikaci skladby buďte opatrní.
+6. Aby byl příspěvek platný, musíte se účastnit minimálně 5 písní.
 
 ## Jak se účastníte hacktoberfestu a jak provést žádost o vyžádání?
 
