@@ -9,6 +9,7 @@ Chemy stworzyć listę z nazwami piosenek podzielonych na gatunki. Ta inicjatywa
 3. w środku każdego folderu jest plik (w formacie markdown) z nazwą gatunku. Należy go zedytować, dodać utwór, biorąc pod uwagę by utwory się nie powtarzały, zgodnie z kolejnością, w której znajduje się lista.
 4. Musisz napisać nazwę piosenki, oraz artystę, a także umieścić link do piosenki na YouTube.
 5. Są tu bardzo podobne gatunki, więc bądź uważny przy klasyfikacji piosenki!
+6. Aby udział był ważny, musisz wziąć udział w co najmniej 5 utworach.
 
 ## O projekcie
 
