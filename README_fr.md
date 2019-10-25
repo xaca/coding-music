@@ -7,7 +7,7 @@ Nous cherchons à créer des listes en texte avec les noms des chansons organis�
 1. Les chansons doivent être organisées par genre. Pour ce faire, vous devez rechercher le dossier en fonction du genre.
 2. Si la chanson que vous voulez partager ne fait partie d'aucun des genres existants, vous pouvez la créer après avoir demandé si le nouveau genre est valide.
 3. A l'intérieur de chaque dossier se trouve un fichier (au format de démarque) avec le nom du genre. Ceci doit être édité, en tenant compte de ne répéter aucune chanson et de l'ajouter à l'intérieur du fichier, selon l'ordre qui porte la liste.
-4. Vous devez écrire le nom de la chanson + l'artiste, et aussi vous assurer de mettre un lien YouTube.
+4. Vous devez écrire le nom de la chanson + le nom de l'artiste, et aussi vous assurez de mettre un lien YouTube.
 5. Il y a des genres très similaires, donc faites attention à la classification de la chanson.
 
 ## À propos du projet
