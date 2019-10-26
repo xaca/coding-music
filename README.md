@@ -9,6 +9,7 @@
 * 🇮🇩 [Indonesian](https://github.com/xaca/coding-music/blob/master/README_id.md)
 * 🇹🇭 [Thai](https://github.com/xaca/coding-music/blob/master/README_th.md)
 * 🇩🇪 [German](https://github.com/xaca/coding-music/blob/master/README_ge.md)
+* :vi: [Vietnamese](https://github.com/xaca/coding-music/blob/master/README_vi.md)
 
 Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar.
 
