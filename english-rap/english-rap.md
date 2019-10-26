@@ -50,5 +50,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 37. [Eminem - My Name Is](https://www.youtube.com/watch?v=sNPnbI1arSE)
 38. [Childish Gambino - Summertime Magic](https://www.youtube.com/watch?v=diLp6hUqvVk)
 39. [Eminem, Dr. Dre - Forgot About Dre](https://www.youtube.com/watch?v=QFcv5Ma8u8k)
-
+40. [J Cole - Dollar and a Dream III](https://www.youtube.com/watch?v=F7sQNhQsv1M)
 
