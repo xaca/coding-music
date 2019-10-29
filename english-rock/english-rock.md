@@ -1,5 +1,9 @@
 # English Rock - Rock en inglés
 
+## Thai
+
+กรุณาช่วยเพิ่มเพลงโปรดของคุณในรายการนี้ เฉพาะเพลงร็อค
+
 ## Português Brasileiro
 Por favor adicione suas músicas favoritas nesta lista, apenas Rock
 
@@ -21,7 +25,6 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 10. [Linkin Park - Numb](https://www.youtube.com/watch?v=kXYiU_JCYtU)
 11. [Breaking The Habit - Linkin Park](https://www.youtube.com/watch?v=v2H4l9RpkwM)
 12. [Imagine Dragons - Radioactive](https://www.youtube.com/watch?v=ktvTqknDobU)
-12. [Tool - Pneuma](https://www.youtube.com/watch?v=5ClCaPmAA7s)
 13. [Evanescence - Bring Me To Life](https://www.youtube.com/watch?v=3YxaaGgTQYM)
 14. [Godsmack - I Stand Alone](https://www.youtube.com/watch?v=OYjZK_6i37M)
 15. [A Perfect Circle - Judith](https://www.youtube.com/watch?v=xTgKRCXybSM)
@@ -48,3 +51,24 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 36. [The Script - Hall of Fame](https://www.youtube.com/watch?v=dtgoDXEOxTM)
 37. [Linkin Park - Pts.Of.Athrty](https://www.youtube.com/watch?v=GgxcvmkPD-I)
 38. [Korn - Falling Away From Me](https://www.youtube.com/watch?v=2s3iGpDqQpQ)
+39. [Tool - Pneuma](https://www.youtube.com/watch?v=5ClCaPmAA7s)
+40. [Red Hot Chili Peppers - Scar Tissue](https://www.youtube.com/watch?v=mzJj5-lubeM)
+41. [Red Hot Chili Peppers - Under the bridge](https://www.youtube.com/watch?v=O9TunCtR3dQ)
+42. [Pink floyd - Wish you were here](https://www.youtube.com/watch?v=vLdPL3xvq3M)
+43. [Aerosmith - Cryin'](https://youtu.be/qfNmyxV2Ncw)
+44. [Weezer - Perfect Situation](https://www.youtube.com/watch?v=jwv-iRvyDZg)
+45. [Weezer - Take On Me](https://www.youtube.com/watch?v=f7RwDnZI7Tw)
+46. [Weezer - The End Of The Game](https://www.youtube.com/watch?v=Rl-hSj3gnks)
+47. [Weezer - Buddy Holly](https://www.youtube.com/watch?v=Kjr7US2Z9aY)
+48. [Weezer - Island In The Sun](https://www.youtube.com/watch?v=erG5rgNYSdk)
+49. [Fall Out Boy - Thnks fr th Mmrs ](https://www.youtube.com/watch?v=onzL0EM1pKY)
+50. [Fall Out Boy - Sugar, We're Goin Down](https://www.youtube.com/watch?v=uhG-vLZrb-g)
+51. [Fall Out Boy - This Ain't A Scene, It's An Arms Race](https://www.youtube.com/watch?v=GNm5drtAQXs)
+52. [Rise Against - Prayer Of The Refugee](https://www.youtube.com/watch?v=9-SQGOYOjxs)
+53. [Rise Against - Satellite](https://www.youtube.com/watch?v=6nQCxwneUwA)
+54. [The Killers - Mr. Brightside](https://www.youtube.com/watch?v=gGdGFtwCNBE)
+55. [Panic! At The Disco: I Write Sins Not Tragedies](https://www.youtube.com/watch?v=vc6vs-l5dkc)
+55. [Poets of the Fall - War](https://www.youtube.com/watch?v=0f_hewSrAH4)
+56. [Green Day - Boulevard Of Broken Dreams](https://www.youtube.com/watch?v=Soa3gO7tL-c)
+57. [Brand New - Jesus Christ](https://www.youtube.com/watch?v=cjPyvoLXPs4)
+58. [Muse - Starlight](https://www.youtube.com/watch?v=Pgum6OT_VH8)

@@ -1,6 +1,10 @@
 
 # English Rap - Rap en inglés
 
+## Thai
+
+กรุณาช่วยเพิ่มเพลงโปรดของคุณในรายการนี้ เฉพาะเพลงแรป
+
 ## English
 Please add your favorite songs to this list, only Rap / Hip Hop. 
 
@@ -41,3 +45,10 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 32. [Murs - The Break Up](https://www.youtube.com/watch?v=CKA0kgsScb8)
 33. [Eminem - Cinderella Man](https://www.youtube.com/watch?v=kKPZqkcWeTM)
 34. [Eminem - Space Bound](https://www.youtube.com/watch?v=JByDbPn6A1o)
+35. [Eminem - Killshot](https://www.youtube.com/watch?v=FxQTY-W6GIo)
+36. [Eminem - Cleanin' Out My Closet](https://www.youtube.com/watch?v=RQ9_TKayu9s)
+37. [Eminem - My Name Is](https://www.youtube.com/watch?v=sNPnbI1arSE)
+38. [Childish Gambino - Summertime Magic](https://www.youtube.com/watch?v=diLp6hUqvVk)
+39. [Eminem, Dr. Dre - Forgot About Dre](https://www.youtube.com/watch?v=QFcv5Ma8u8k)
+
+

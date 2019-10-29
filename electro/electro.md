@@ -1,6 +1,10 @@
 
 # Electro
 
+## Thai
+
+กรุณาช่วยเพิ่มเพลงโปรดของคุณในรายการนี้ เฉพาะเพลงอิเล็คทรอนิค
+
 ## English
 Please add your favorite songs to this list, only Electro. 
 
@@ -27,3 +31,8 @@ Por favor agrega tus canciones favoritas a esta lista, Electro.
 16. [Avicii - Trouble](https://www.youtube.com/watch?v=orMo3DNq14g)
 17. [Alan Walker - Alone](https://www.youtube.com/watch?v=1-xGerv5FOk)
 18. [Aaron Smith - Dancin](https://youtu.be/0XFudmaObLI)
+19. [Axel F - Crazy Frog](https://youtu.be/k85mRPqvMbE)
+20. [The Chemical Brothers - Hey Boy Hey Girl](https://www.youtube.com/watch?v=tpKCqp9CALQ)
+21. [The Prodigy - Narayan](https://www.youtube.com/watch?v=TMbMKdOYRxk)
+22. [Kavinsky - Nightcall (Drive Original Movie Soundtrack)](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
+23. [Röyksopp - What Else Is There?](https://www.youtube.com/watch?v=Q-2R12p38Go)

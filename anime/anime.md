@@ -1,5 +1,9 @@
 # Anime
 
+## Thai
+
+กรุณาช่วยเพิ่มเพลงโปรดของคุณในรายการนี้ เฉพาะเพลงอนิเมะ
+
 ## English
 
 Please add your favorite songs to this list, only Anime.
@@ -38,3 +42,8 @@ Por favor agrega tus canciones favoritas a esta lista, Anime.
 28. [Moonlight Densetsu - Heart Moving](https://www.youtube.com/watch?v=sEnaU4BsQic)
 29. [The Hero - JAM project](https://www.youtube.com/watch?v=sfFv3MTPdkw)
 30. [The Day - Porno Graffitti](https://www.youtube.com/watch?v=2SVZ_2z79rQ)
+31. [Neon Genesis Evangelion - The Evangelion Symphony](https://www.youtube.com/watch?v=nP3LMSAmrfU)
+32. [Crossing Field - LiSA](https://youtu.be/xiz0utrFdHU)
+33. [Maxiumum the Hormone - Zetsubou Billy](https://www.youtube.com/watch?v=TryUrcD1loA)
+34. [Round Table - Puzzle](https://www.youtube.com/watch?v=qUcAp6CHprA)
+35. [Tommy heavenly6 - Papermoon](https://www.youtube.com/watch?v=15XAgt_b8HA)

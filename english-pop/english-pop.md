@@ -1,10 +1,15 @@
-
 # English Pop - Pop en inglés
 
+## Thai
+
+กรุณาช่วยเพิ่มเพลงโปรดของคุณในรายการนี้ เฉพาะเพลงป็อป
+
 ## English
-Please add your favorite songs to this list, only Pop. 
+
+Please add your favorite songs to this list, only Pop.
 
 ## Español
+
 Por favor agrega tus canciones favoritas a esta lista, Pop.
 
 1. [Jeremy Zucker - Comethru](https://www.youtube.com/watch?v=jO2viLEW-1A)
@@ -29,3 +34,8 @@ Por favor agrega tus canciones favoritas a esta lista, Pop.
 20. [Michael Jackson - Will You Be There](https://www.youtube.com/watch?v=jQY_QL_wvQU)
 21. [Michael Jackson - The Way You Make Me Feel](https://www.youtube.com/watch?v=HzZ_urpj4As)
 22. [One Direction - Steal My Girl](https://www.youtube.com/watch?v=UpsKGvPjAgw)
+23. [One Direction - One Thing](https://youtu.be/Y1xs_xPb46M)
+24. [Dean Lewis - Stay Awake](https://www.youtube.com/watch?v=PzSQJwpljg0)
+25. [The Wanted - Glad You Came](https://www.youtube.com/watch?v=2ggzxInyzVE)
+26. [Charli XCX - Boom Clap](https://www.youtube.com/watch?v=AOPMlIIg_38)
+27. [Pitbull - Timber ft. Ke$ha](https://www.youtube.com/watch?v=hHUbLv4ThOo)
