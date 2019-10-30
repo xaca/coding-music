@@ -34,3 +34,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock en español
 26. [Caramelos de Cianuro - 2 caraS 2 Corazones ](https://www.youtube.com/watch?v=BrF-TSAcsBk)
 25. [Caramelos de Cianuro - Las Estrellas ](https://www.youtube.com/watch?v=Cv3hKgswvqU)
 26. [Jaguares - Detras de los Cerros](https://www.youtube.com/watch?v=KK12h0ctzpU)
+27. [M Clan - He visto una luz](https://www.youtube.com/watch?v=mMotaZlNpIM)

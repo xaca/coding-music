@@ -47,3 +47,4 @@ Por favor agrega tus canciones favoritas a esta lista, Anime.
 33. [Maxiumum the Hormone - Zetsubou Billy](https://www.youtube.com/watch?v=TryUrcD1loA)
 34. [Round Table - Puzzle](https://www.youtube.com/watch?v=qUcAp6CHprA)
 35. [Tommy heavenly6 - Papermoon](https://www.youtube.com/watch?v=15XAgt_b8HA)
+36. [Mikami Concertino - Yoshihisa Hirano](https://www.youtube.com/watch?v=0ppJLgMBci8)
