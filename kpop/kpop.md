@@ -21,3 +21,5 @@ Por favor agrega tus canciones favoritas a esta lista, Kpop.
 11. [TWICE - YES OR YES](https://www.youtube.com/watch?v=mAKsZ26SabQ)
 12. [TWICE - FANCY](https://www.youtube.com/watch?v=kOHB85vDuow)
 13. [TWICE - FEEL SPECIAL](https://www.youtube.com/watch?v=3ymwOvzhwHs)
+14. [BLACKPINK - DDU-DU DDU-DU](https://www.youtube.com/watch?v=IHNzOHi8sJs)
+15. [BLACKPINK - BOOMBAYAH](https://www.youtube.com/watch?v=bwmSjveL3Lc)
