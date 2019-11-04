@@ -28,3 +28,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 18. [Willie DeVille (ft. Nasty Killah, N-WISE & Lou Fresco) - Lex Diamonds](https://www.youtube.com/watch?v=nowsUy1CEGI)
 19. [Lil Supa' - Fe de Errata](https://www.youtube.com/watch?v=mWpmqoeQIiw)
 20. [Willie DeVille, Lou Fresco, RayOne & Akapellah - Caciques VOL. 2](https://www.youtube.com/watch?v=90ZEQpih6Z4)
+21. [Modelo 90, The Negro Tapes](https://www.youtube.com/watch?v=q5QGIqOdwCY)

@@ -39,3 +39,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock en español
 29. [Llevarte a Marte - Al final del día](https://www.youtube.com/watch?v=OTj2ADIvFt0)
 30. [Llevarte a Marte - Hogar](https://www.youtube.com/watch?v=s99cYYfczv4)
 31. [Los Rabanes - How are you](https://www.youtube.com/watch?v=z_S-7kpkwSY)
+32. [M Clan - He visto una luz](https://www.youtube.com/watch?v=mMotaZlNpIM)
