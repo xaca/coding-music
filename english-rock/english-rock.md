@@ -81,3 +81,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 65. [Disturbed - Land of Confusion](https://www.youtube.com/watch?v=YV4oYkIeGJc)
 66. [Disturbed - Ten Thousand Fists](https://www.youtube.com/watch?v=OuK4OcMUGcg)
 67. [Still Got The Blues - Gary Moore](https://www.youtube.com/watch?v=4O_YMLDvvnw)
+68. [Castle Of Glass - Linkin Park](https://www.youtube.com/watch?v=ScNNfyq3d_w)
+69. [Sweet Child O Mine - Guns N' Roses](https://www.youtube.com/watch?v=1w7OgIMMRc4)
