@@ -39,3 +39,8 @@ Por favor agrega tus canciones favoritas a esta lista, Pop.
 25. [The Wanted - Glad You Came](https://www.youtube.com/watch?v=2ggzxInyzVE)
 26. [Charli XCX - Boom Clap](https://www.youtube.com/watch?v=AOPMlIIg_38)
 27. [Pitbull - Timber ft. Ke$ha](https://www.youtube.com/watch?v=hHUbLv4ThOo)
+28. [5 Seconds of Summer - Youngblood](https://www.youtube.com/watch?v=-RJSbO8UZVY)
+29. [Ava Max - Sweet but Psycho](https://www.youtube.com/watch?v=WXBHCQYxwr0)
+30. [Jax Jones, Bebe Rexha - Harder](https://www.youtube.com/watch?v=fM7_jMD8EIM)
+31. [Troye Sivan - Strawberries & Cigarettes](https://www.youtube.com/watch?v=PYI0E_Wr1gM)
+32. [Sigala, Becky Hill - Wish You Well](https://www.youtube.com/watch?v=1OK1OqA-En4)
