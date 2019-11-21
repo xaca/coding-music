@@ -29,3 +29,8 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 19. [Lil Supa' - Fe de Errata](https://www.youtube.com/watch?v=mWpmqoeQIiw)
 20. [Willie DeVille, Lou Fresco, RayOne & Akapellah - Caciques VOL. 2](https://www.youtube.com/watch?v=90ZEQpih6Z4)
 21. [Modelo 90, The Negro Tapes](https://www.youtube.com/watch?v=q5QGIqOdwCY)
+22. [Dinasty - EL DOJO](https://www.youtube.com/watch?v=1pkL8HcucBA)
+23. [Cancion de rap - Canserbero](https://www.youtube.com/watch?v=lp3FM_DegUc)
+24. [Ovni - Tino del pingüino](https://www.youtube.com/watch?v=Lcc3-eCQiCg)
+25. [No habrá salvacion - EL DOJO](https://www.youtube.com/watch?v=wLdPDEzs_gQ)
+26. [RUN - Lil Supa ft. Ergo Pro](https://www.youtube.com/watch?v=S6LAfpRWpU0)
