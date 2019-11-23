@@ -1,7 +1,7 @@
 # C:heart_eyes:ding Music
 
 * 🇬🇧 [English](https://github.com/xaca/coding-music/blob/master/README_en.md)
-* 🇫🇷(https://github.com/xaca/coding-music/blob/master/README_fr.md)
+* 🇫🇷 [French](https://github.com/xaca/coding-music/blob/master/README_fr.md)
 * 🇧🇷 [Brazil](https://github.com/xaca/coding-music/blob/master/README_pt-br.md)
 * 🇵🇱 [Polish](https://github.com/xaca/coding-music/blob/master/README_pl.md)
 * 🇨🇿 [Czech](https://github.com/xaca/coding-music/blob/master/README_czech.md)
