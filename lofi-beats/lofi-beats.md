@@ -9,6 +9,7 @@ Spotify reference playlist:
 ## Español
 Por favor agrega tus canciones favoritas a esta lista relacionadas con lofi en general.
 Lista de referencia de Spotify:
+
 - [Lofi beats de Spotify](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
 
 1. [SmoothSounds](https://www.youtube.com/watch?v=8Phpz8UHC4U)
