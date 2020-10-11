@@ -18,3 +18,7 @@
 18. [Suraj Hua Maddham | Sonu Nigam & Alka Yagnik](https://www.youtube.com/watch?v=L0zKs8i7Nc8)
 19. [Coke Studio Season 9 - Afreen Afreen - Rahat Fateh Ali Khan & Momina Mustehsan](https://www.youtube.com/watch?v=M7tsJ8-JdH8)
 20. [Main Agar Kahoon | Sonu Nigam, Shreya Ghosal](https://www.youtube.com/watch?v=o-Gmhk90JOE)
+21. [Baarishein - Anuv Jain](https://www.youtube.com/watch?v=PJWemSzExXs)
+22. [Kasoor - Prateek Kuhad](https://www.youtube.com/watch?v=BmUe3-sfr7E)
+23. [Kahin toh Hogi voh](https://www.youtube.com/watch?v=hCsY8T0uBGA)
+
