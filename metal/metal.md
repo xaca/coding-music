@@ -1,4 +1,4 @@
-# Reggae
+# Metal
 
 ## English
 Please add your favorite songs to this list, only Reggae.
