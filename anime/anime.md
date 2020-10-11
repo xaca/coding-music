@@ -57,3 +57,4 @@ Por favor agrega tus canciones favoritas a esta lista, Anime.
 43. [LIFE - Rude-α](https://youtu.be/jgy0Md2VCOw)
 44. [Mikami Concertino - Yoshihisa Hirano](https://www.youtube.com/watch?v=0ppJLgMBci8)
 45. [Renai Circulation](https://www.youtube.com/watch?v=uKxyLmbOc0Q)
+46. [Good Morning World - BURNOUT SYNDROMES](https://www.youtube.com/watch?v=yQEUGxngQN4)
