@@ -56,4 +56,5 @@ Por favor agrega tus canciones favoritas a esta lista, Anime.
 42. [SPYAIR - Sakuramitsutsuki](https://youtu.be/gxkg5qKNnn0)
 43. [LIFE - Rude-α](https://youtu.be/jgy0Md2VCOw)
 44. [Mikami Concertino - Yoshihisa Hirano](https://www.youtube.com/watch?v=0ppJLgMBci8)
-45. [Good Morning World - BURNOUT SYNDROMES](https://www.youtube.com/watch?v=yQEUGxngQN4&list=PLacVb7FbTugnXzgsKAe4mEBxXaNGCU7SG&index=2&t=0s)
+45. [Renai Circulation](https://www.youtube.com/watch?v=uKxyLmbOc0Q)
+46. [Good Morning World - BURNOUT SYNDROMES](https://www.youtube.com/watch?v=yQEUGxngQN4)
