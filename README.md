@@ -1,17 +1,33 @@
 # C:heart_eyes:ding Music
 
-Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar.
+* 🇬🇧 [English](https://github.com/xaca/coding-music/blob/master/README_en.md)
+* 🇫🇷 [French](https://github.com/xaca/coding-music/blob/master/README_fr.md)
+* 🇧🇷 [Brazil](https://github.com/xaca/coding-music/blob/master/README_pt-br.md)
+* 🇵🇱 [Polish](https://github.com/xaca/coding-music/blob/master/README_pl.md)
+* 🇨🇿 [Czech](https://github.com/xaca/coding-music/blob/master/README_czech.md)
+* 🇩🇪 [Deutsch](https://github.com/xaca/coding-music/blob/master/README_de.md)
+* 🇮🇩 [Indonesian](https://github.com/xaca/coding-music/blob/master/README_id.md)
+* 🇹🇭 [Thai](https://github.com/xaca/coding-music/blob/master/README_th.md)
+* 🇻🇳 [Vietnamese](https://github.com/xaca/coding-music/blob/master/README_vi.md)
+* 🇳🇱 [Dutch](https://github.com/xaca/coding-music/blob/master/README_nl.md)
 
-* :us: [English](https://github.com/xaca/coding-music/blob/master/README_en.md)
-* :fr: [French](https://github.com/xaca/coding-music/blob/master/README_fr.md)
+Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar.
 
 ## Instrucciones
 
 1. Las canciones se deben organizar por genero, para esto se debe buscar la carpeta según el genero.
 2. Si la canción que quiere compartir no se encuentra en alguno de los generos existentes, se podría crear, pero primero se debe preguntar si el nuevo genero es válido.
-3. Dentro de cada carpeta hay un archivo con formato markdown con el nombre del genero, este se debe editar, teniendo en cuenta de no repetir canción y de agregarla al inal del archivo, según el orden que lleve el listado.
+3. Dentro de cada carpeta hay un archivo con formato markdown con el nombre del genero, este se debe editar, teniendo en cuenta de no repetir canción y de agregarla al archivo, según el orden que lleve el listado.
 4. Se debe escribir el nombre de la canción y el artista y además se debe poner el enlace a youtube.
 5. Hay generos muy similares, entonces por favor tener cuidado en la clasificación de la canción.
+6. Se debe participar con mínimo 5 canciones para que la contribución sea valida.
+
+## ¿Como se participa de hacktoberfest y como realizar un pull request?
+
+En el sisguiente video, explico paso a paso, como participar del evento hacktoberfest de github, además explico como colaborar en un proyecto y como buscar proyectos para colaborar.
+
+![al text](https://i.ytimg.com/vi/8MQN0U1AwgU/hqdefault.jpg "Video youtube") <br>
+[Enlace al video](https://www.youtube.com/watch?v=8MQN0U1AwgU)
 
 ## Acerca del proyecto
 

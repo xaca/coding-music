@@ -1,4 +1,4 @@
-﻿# Spanish Rap - Rap en español
+# Spanish Rap - Rap en español
 
 ## English
 

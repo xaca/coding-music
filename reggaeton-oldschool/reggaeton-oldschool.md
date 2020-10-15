@@ -20,3 +20,9 @@ Por favor agrega tus canciones favoritas a esta lista, solo Reggaeton / Ragga.
 12. [Don Omar - Virtual Diva](https://www.youtube.com/watch?v=vRBgZ4aMPio)
 13. [Daddy Yankee - Descontrol](https://www.youtube.com/watch?v=LpoFBlH4wMI)
 14. [Abusadora - Wisin y Yandel](https://www.youtube.com/watch?v=YckjfpNi5dI)
+15. [Daddy Yankee - Gasolina](https://www.youtube.com/watch?v=CCF1_jI8Prk)
+16. [Daddy Yankee - Rompe](https://www.youtube.com/watch?v=1QzlcmHjTCo)
+16. [Tito el Bambino - Siente el Boom (lyrics)](https://www.youtube.com/watch?v=YyhU5r3N470)
+17. [Don Omar - Pobre Diabla [Official Video]](https://www.youtube.com/watch?v=JR9UC9l2WW4)
+
+
