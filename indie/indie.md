@@ -8,7 +8,7 @@ Por favor agrega tus canciones favoritas a esta lista, solo Indie.
 
 1. [Mystery Jets - Serotonin Session](https://www.youtube.com/watch?v=4rbhNuK5npU)
 2. [Mystery Jets - Greatest Hits](https://www.youtube.com/watch?v=sChrWywUYuE)
-3. [Mystery Jets - Young Love (Featuring Laura Marling)](https://www.youtube.com/watch?v=qz-FoGp3p0s)
+3. [Mystery Jets - Young Love - Featuring Laura Marling](https://www.youtube.com/watch?v=qz-FoGp3p0s)
 4. [Mystery Jets - Half In Love With Elizabeth](https://www.youtube.com/watch?v=P0SjfLqzwj8)
 5. [Grouplove - Let Me In](https://www.youtube.com/watch?v=CvqyxgZMDXI)
 6. [Grouplove - Ways to Go](https://www.youtube.com/watch?v=VGvHnDeS12o)

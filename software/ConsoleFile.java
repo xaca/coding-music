@@ -170,7 +170,10 @@ public class ConsoleFile{
 	{
 		String[] canciones = listarCarpetas(ruta);
 		//System.out.println(Arrays.toString(canciones));
-		leer(canciones[0]);
+		for(int i=0;i<canciones.length;i++)
+		{
+			leer(canciones[i]);
+		}
 		return null;
 		//return leer(canciones[0]);
 	}

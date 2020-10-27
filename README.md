@@ -22,6 +22,8 @@ Buscamos crear listas en texto con los nombres de canciones organizadas por gene
 4. Se debe escribir el nombre de la canción y el artista y además se debe poner el enlace a youtube.
 5. Hay generos muy similares, entonces por favor tener cuidado en la clasificación de la canción.
 6. Se debe participar con mínimo 5 canciones para que la contribución sea valida.
+7. No incluir paréntesis o corchetes en el markdown del nombre de la canción
+8. Dar un formato adecuado al nombre, evitar la mayúscula sostenida
 
 ## ¿Como se participa de hacktoberfest y como realizar un pull request?
 

@@ -1,4 +1,3 @@
-
 # House
 
 ## English
@@ -14,11 +13,3 @@ Por favor agrega tus canciones favoritas a esta lista, House.
 5. [Modjo - No more tears](https://www.youtube.com/watch?v=sqsFjwFgd04)
 6. [Daft Punk - Around the World](https://www.youtube.com/watch?v=yca6UsllwYs)
 7. [Daft Punk - Digital Love](https://www.youtube.com/watch?v=FxzBvqY5PP0)
-8. []()
-9. []()
-10. []()
-11. []()
-12. []()
-13. []()
-14. []()
-15. []()
