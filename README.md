@@ -41,3 +41,14 @@ Este proyecto nace en hacktoberfest, para promover la participación en un proye
 Si te gusto este proyecto, por favor participa, comparte, dejanos tus comentarios y una estrellita :thumbsup:.
 
 :star: :heart: :star: :heart: :star: :heart: 
+
+## Referencias Software
+
+- [Java File class](https://docs.oracle.com/javase/8/docs/api/java/io/File.html)
+- [Java FileFilter interface](https://javatutorialhq.com/java/io/file-class-tutorial/listfiles-filefilter-method-example/)
+- [Java Scanner class](https://www.tutorialspoint.com/java/util/scanner_hasnextline.htm)
+- [Java BufferedReader class](https://www.geeksforgeeks.org/different-ways-reading-text-file-java/)
+- [Javas Strinktokenizer - DEPRECADA](https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html)
+- [Expresiones regulares](https://en.wikipedia.org/wiki/Regular_expression)
+- [Expresiones regulares en línea](https://regex101.com/)
+
