@@ -1,47 +1,10 @@
-import java.io.BufferedWriter;
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Scanner;
 import java.util.regex.*;
 import java.util.*;
+import java.io.*;
+import java.nio.file.*;
+import java.nio.charset.StandardCharsets;
 
 public class ConsoleFile{
-	
-	/*public static String[] read(String filename){
-
-		FileWriter fw = null;
-		try {
-			//crea el flujo para escribir en el archivo
-			flwriter = new FileWriter("C:\\archivos\\estudiantes.txt");
-			//crea un buffer o flujo intermedio antes de escribir directamente en el archivo
-			BufferedWriter bfwriter = new BufferedWriter(flwriter);
-			for (Estudiante estudiante : lista) {
-				//escribe los datos en el archivo
-				bfwriter.write(estudiante.getCedula() + "," + estudiante.getNombres() + "," + estudiante.getApellidos()
-						+ "," + estudiante.getTelefono() + "," + estudiante.getDireccion() + "\n");
-			}
-			//cierra el buffer intermedio
-			bfwriter.close();
-			System.out.println("Archivo creado satisfactoriamente..");
- 
-		} catch (IOException e) {
-			e.printStackTrace();
-		} finally {
-			if (flwriter != null) {
-				try {//cierra el flujo principal
-					flwriter.close();
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
-			}
-		}
-
-	}*/
 
 	public static String[] arrayListToStrings(ArrayList<String> al)
 	{
@@ -86,15 +49,18 @@ public class ConsoleFile{
 
 	public static String filtrar(String temp)
 	{
-		return temp.replace("[","").replace("]","").replace("(","").replace(")","");
+		return temp.replace("[","").replace("]","").replace("(","").replace(")","").replace("\"","\\\"");
 	}
 
-	public static void leer(String ruta)
+	public static String leer(String ruta,boolean fin_archivo)
 	{
 		File file;
 		BufferedReader br;
 		int contador = 0;
 		String st, linea1,linea2; 
+		StringBuilder salida;
+
+		salida = new StringBuilder("[");
 
 		try{
 			file = new File(ruta);
@@ -110,18 +76,46 @@ public class ConsoleFile{
 						linea2 = buscarExpresion(st,"\\([^)]*\\)");//\\([^)]*\\)
 						if(linea2!=null)
 						{
-							imprimir(filtrar(linea1));
-							imprimir(filtrar(linea2));
+							salida.append("{\"titulo\":\""+filtrar(linea1)+"\",");
+							salida.append("\"url\":\""+filtrar(linea2)+"\"}\n");
+							//imprimir(filtrar(linea1));
+							//imprimir(filtrar(linea2));
+
 						}
 					}
+					salida.append(",");
 				}
 				//imprimir(""+Arrays.toString(resultado));
-			} 
+			}
+			salida.setLength(salida.length()-1);
+			salida.append("]"); 
+			if(!fin_archivo)
+			{
+				salida.append(",");
+			}
 		}
 		catch(Exception e)
 		{
 			imprimir("Excepcion leer:"+e);
 		}
+
+		return salida.toString();
+	}
+
+	public static void escribir(String linea,String ruta)
+	{
+		Path path;
+		try{
+			path = Paths.get(ruta);
+			//linea += linea + System.lineSeparator();
+			Files.write(path, linea.getBytes(StandardCharsets.UTF_8),StandardOpenOption.CREATE, StandardOpenOption.APPEND);
+			//Files.write(path, linea.getBytes(StandardCharsets.UTF_8));
+		}
+		catch(Exception e)
+		{
+			imprimir("Escribir "+e);
+		}
+
 	}
 
 	//Crea el archivo en disco, retorna la lista de estudiantes
@@ -166,15 +160,16 @@ public class ConsoleFile{
 	}
 
 
-	public static String[] listarCanciones(String ruta)
+	public static void crearListaCanciones(String ruta,String nombre_archivo)
 	{
 		String[] canciones = listarCarpetas(ruta);
 		//System.out.println(Arrays.toString(canciones));
+		escribir("[",nombre_archivo);
 		for(int i=0;i<canciones.length;i++)
 		{
-			leer(canciones[i]);
+			escribir(leer(canciones[i],i+1>=canciones.length),nombre_archivo);
 		}
-		return null;
+		escribir("]",nombre_archivo);
 		//return leer(canciones[0]);
 	}
 
