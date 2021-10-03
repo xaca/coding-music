@@ -134,3 +134,8 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rap / Hip Hop.
 127. [Lil Supa - EGO](https://www.youtube.com/watch?v=LFKnEIcctSU)
 128. [Elio Toffana & Lou Fresco](https://www.youtube.com/watch?v=pSse35fKGjo)
 129. [Dano ft. Relson](https://www.youtube.com/watch?v=zyJlzBFx2wc)
+130. [Patatús - Lasser, Irepelusa, Sr.Guayaba](https://open.spotify.com/track/4BrpZHknbJCv5S0OSbjn4E?si=35bf7f0d5ea54d5f)
+131. [LA ÚLTIMA - The Guadaloops](https://www.youtube.com/watch?v=4geEuN0WORI)
+132. [Escarlata - Rapsusklei, Rxnde Akozta](https://www.youtube.com/watch?v=JkBrhNaYCIs)
+133. [Arkitekto - Rapsusklei](https://www.youtube.com/watch?v=V62g5PDRrJw) 
+134. [Enero - Rapsusklei](https://www.youtube.com/watch?v=nfd-1xbC1jg)
