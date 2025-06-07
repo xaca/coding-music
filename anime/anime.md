@@ -64,3 +64,4 @@ Por favor agrega tus canciones favoritas a esta lista, Anime.
 50. [flowing clouds atop the shining hills](https://youtu.be/q8Ui3bmpeKw)
 51. [Rondo of the Sunflower House - From "Ponyo"](https://youtu.be/WaKDTaBNAus)
 52. [Sayonara no natsu](https://youtu.be/Ya8Vl0_4aqI)
+53. [DBZ el poder nuestro es](https://youtu.be/eaGh5e5Y4C4?si=2xpktCirIlFUruIB)
