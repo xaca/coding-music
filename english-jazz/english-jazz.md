@@ -16,3 +16,4 @@ Por favor agrega tus canciones favoritas a esta lista, Pop.
 3.[Nicole Atkins - Bye Bye Blackbird](https://www.youtube.com/watch?v=RjpY_86AFwI)
 4.[Oh I say - King Bhumibol Adulyadej](https://youtu.be/A8g0R-iswJQ)
 5.[Take the a train - Duke Ellington](https://www.youtube.com/watch?v=cb2w2m1JmCY)
+6. [Gary B.B Coleman](https://youtu.be/71Gt46aX9Z4?si=ksiTV7vUrdOAeL3H)
