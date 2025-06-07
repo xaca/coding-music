@@ -35,3 +35,8 @@ Por favor agrega tus canciones favoritas a esta lista, solo Indie.
 27. [MGMT - Electric Feel](https://www.youtube.com/watch?v=MmZexg8sxyk)
 28. [Far Caspian - Conversations](https://www.youtube.com/watch?v=3GoetGHeJhI)
 29. [James Wyatt Crosby - Deep In Yr Mind](https://www.youtube.com/watch?v=F7i50w_iELE)
+30. [Teddy Swims - The Door](https://www.youtube.com/watch?v=VSXT4a2kRHA)
+31. [The White Stripes - Seven Nation Army](https://www.youtube.com/watch?v=0J2QdDbelmY)
+32. [The Black Keys - Weight Of Love](https://www.youtube.com/watch?v=ygdVEIrVnIk)
+33. [Halsey - Ghost](https://www.youtube.com/watch?v=ao4o-XRU_KM)
+34. [M83 - I Need You](https://www.youtube.com/watch?v=_wvr8EIr0Tw&pp=ygUQTTgzIC0gSSBOZWVkIFlvdQ%3D%3D)
