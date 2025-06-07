@@ -83,3 +83,5 @@ Por favor agrega tus canciones favoritas a esta lista, solo Rock
 67. [Still Got The Blues - Gary Moore](https://www.youtube.com/watch?v=4O_YMLDvvnw)
 68. [Castle Of Glass - Linkin Park](https://www.youtube.com/watch?v=ScNNfyq3d_w)
 69. [Sweet Child O Mine - Guns N' Roses](https://www.youtube.com/watch?v=1w7OgIMMRc4)
+70. [Maneskin - supermodel](https://www.youtube.com/watch?v=jODrVofka54)
+71. [Maneskin - I wanna be your slave](https://www.youtube.com/watch?v=Vfdq37BDM48)
