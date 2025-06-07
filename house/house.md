@@ -13,3 +13,7 @@ Por favor agrega tus canciones favoritas a esta lista, House.
 5. [Modjo - No more tears](https://www.youtube.com/watch?v=sqsFjwFgd04)
 6. [Daft Punk - Around the World](https://www.youtube.com/watch?v=yca6UsllwYs)
 7. [Daft Punk - Digital Love](https://www.youtube.com/watch?v=FxzBvqY5PP0)
+8. [James Hype live @ Space, Miami 2025](https://youtu.be/z8xRMmsNZrA?si=C8M2e7HECgSxI5Ue)
+9. [LF SYSTEM - Hungry (For Love)](https://youtu.be/iMMIUYrFfVc?si=zO411MYZXh6QQSHV)
+10. [Chris Stussy @ Coachella 2025](https://youtu.be/k1ipFTg0sM8?si=b3YWOmDLXbRWZYyV)
+11. [Dennis Cruz live at Yuma - Coachella 2025](https://youtu.be/c-ZznapYW7I?si=Mxj10WeWNAB2WuBi)
