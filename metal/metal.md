@@ -11,3 +11,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Metal.
 3. [DOOM Eternal OST 54 - Meathook (Slayer Gate)](https://youtu.be/Fw21lF9chYE)
 4. [Mick Gordon - 11. BFG Division](https://youtu.be/QHRuTYtSbJQ)
 5. [Mick Gordon - 02. Rip & Tear](https://youtu.be/zZMg9ryeWOw)
+6. [Mudvayne - Dig](https://www.youtube.com/watch?v=YIqbdnaPcT8)
