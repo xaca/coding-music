@@ -1,9 +1,13 @@
 # Metal
 
 ## English
+
 Please add your favorite songs to this list, only Metal.
 
+1. [Falling In Reverse - "God Is A Weapon (feat. Marilyn Manson)"](https://www.youtube.com/watch?v=xqJurrQKNdE)
+
 ## Español
+
 Por favor agrega tus canciones favoritas a esta lista, solo Metal.
 
 1. [Mick Gordon - The Only Thing They Fear Is You - DOOM Eternal OST](https://youtu.be/rJYBzFBpP_8)
