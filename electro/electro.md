@@ -36,3 +36,4 @@ Por favor agrega tus canciones favoritas a esta lista, Electro.
 21. [The Prodigy - Narayan](https://www.youtube.com/watch?v=TMbMKdOYRxk)
 22. [Kavinsky - Nightcall (Drive Original Movie Soundtrack)](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
 23. [Röyksopp - What Else Is There?](https://www.youtube.com/watch?v=Q-2R12p38Go)
+24. [Lone Digger - Caravan Palace](https://www.youtube.com/watch?v=UbQgXeY_zi4)
