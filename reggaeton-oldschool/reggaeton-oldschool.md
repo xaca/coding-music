@@ -1,4 +1,4 @@
-﻿# Reggaeton Oldschool - Reggaeton viejo
+# Reggaeton Oldschool - Reggaeton viejo
 
 ## English
 Please add your favorite songs to this list, only Reggaeton / Ragga. 
@@ -24,3 +24,8 @@ Por favor agrega tus canciones favoritas a esta lista, solo Reggaeton / Ragga.
 16. [Daddy Yankee - Rompe](https://www.youtube.com/watch?v=1QzlcmHjTCo)
 16. [Tito el Bambino - Siente el Boom - lyrics](https://www.youtube.com/watch?v=YyhU5r3N470)
 17. [Don Omar - Pobre Diabla - Official Video](https://www.youtube.com/watch?v=JR9UC9l2WW4)
+18. [Wisin Y Yandel - Rakata](https://www.youtube.com/watch?v=2KNcGxvpxaw)
+19. [Los Benjamins - Noche De Entierro](https://www.youtube.com/watch?v=yspyMN-nvH8)
+20. [Tego Calderon - Pa Que Se Lo Gozen](https://www.youtube.com/watch?v=9hKtfKaS3zI)
+21. [Khriz y Angel - Ven Bailalo ](https://www.youtube.com/watch?v=PKqrEGZRWbA)
+22. [Don Omar y Tego Calderon- Bandolero](https://www.youtube.com/watch?v=4ZG3pwWGJrk)
