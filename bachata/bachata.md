@@ -33,3 +33,4 @@ Por favor agrega tus canciones favoritas a esta lista, solo Bachata.
 23. [El Chaval - Donde Están Esos Amigos](https://www.youtube.com/watch?v=i00p2f58eb0)
 24. [Zacarias Ferreira - Si Tu Me Dices Ven](https://www.youtube.com/watch?v=3USDw0tSAOs)
 25. [Zacarias Ferreira - Es Tan Dificil](https://www.youtube.com/watch?v=c2fTdFMbMpA)
+26. [Prince Royce, Shakira - Dejavu](https://youtu.be/XEvKn-QgAY0?si=L5YDm1PF9GO3xGZ3)
