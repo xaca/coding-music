@@ -25,3 +25,8 @@ Por favor agrega tus canciones favoritas a esta lista, solo Salsa.
 15. [Frankie Ruiz - Tu Con El](https://www.youtube.com/watch?v=zNmJ88ZDDXs)
 16. [Gilberto Santa Rosa - Conciencia](https://www.youtube.com/watch?v=7kbjKCj-rMQ)
 17. [Victor Manuelle - He Tratado](https://www.youtube.com/watch?v=HKS0ZlYvkpQ)
+18. [Hector Lavoe - El Cantante](https://youtu.be/ZThOVeoaBN8?si=vSXjw_kA8emTxz7U)
+19. [Willie Colón - Talento de Televisión](https://youtu.be/TyNe7VomtQk?si=8YEdsh29uMsA0afD)
+20. [Willie Colón - Idilio](https://youtu.be/Vx7l9RLMNG4?si=7sLmks3E0E8A3QRz)
+21. [Oye Cómo Va - Tito Puente](https://youtu.be/BpAXzTpANNw?si=MpRMK52OJVcdZ5LW)
+22. [El Preso - Fruko y sus Tesos](https://youtu.be/FN5oLBXiNvM?si=yllIIOXeTSbmmxNj)
